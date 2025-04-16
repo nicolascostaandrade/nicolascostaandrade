@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @nicolascostaandrade
-- 👀 I’m interested in ... Programação, aprender sobre códigos, jogos, desenhos e video-games.
-- 🌱 I’m currently learning ... Sobre códigos e programação de jogos.
-- 💞️ I’m looking to collaborate on ... Participação, festas e eventos de criação de jogos.
-- 📫 How to reach me ... Instagram: nicolascostaandrade1@
-- 😄 Pronouns: ... Eles, ele e dele.  
-- ⚡ Fun fact: ... Estou esforçando, sempre de apoio, inteligência e desenvolvimento.
+<h1 align="center">Olá 👋, sou Nicolas</h1>
+<h3 align="center">Sei que é difícil, mas estou tentando aprender sobre códigos e jogos.</h3>
 
-<!---
-nicolascostaandrade/nicolascostaandrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Atualmente estou trabalhando no **Senai**
+
+- 🌱 Atualmente estou aprendendo **Códigos e jogos.**
+
+- 👯 Pretendo colaborar em **Eventos, festas e criações de jogos.**
+
+- ⚡ Curiosidade **Eu estou aprendendo sobre criar jogos.**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+</p>
